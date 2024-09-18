@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Medical_Imaging_Assignment_1", "Medical_Imaging_Assignment_1\Medical_Imaging_Assignment_1.pyproj", "{574031B1-F3D3-4BA9-8035-7032521870C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574031B1-F3D3-4BA9-8035-7032521870C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574031B1-F3D3-4BA9-8035-7032521870C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B736B25F-6199-42B2-AC72-0B092D17622E}
+	EndGlobalSection
+EndGlobal
